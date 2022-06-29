@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rosecricket
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unrael engine
-- 💞️ I’m looking to collaborate on our new game Kefi
-- 🧑‍💻 I love gaming with my friends on PC
+- 👀 I’m a web developer
+- 🌱 I’m looking for freelance jobs
+- 💞️ Feel free to improve or use any of my projects
+- 🧑‍💻 I love playing piano, learning new languages, and biking.
